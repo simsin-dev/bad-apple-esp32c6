@@ -1,7 +1,8 @@
 # Bad apple on esp32!!
-
-The video is streamed frame by frame, using go. To esp32 (in my case esp32c6-devkitc-1), it connects to a wifi network and listents on port 10(TCP) and displays the video on a st7789 lcd screen <br>
-If you want to change the default configuration options refear to bad-apple-esp32c6/main/definitions.h (yes i know i could use the configuration feature of the idf but i was lazy) <br>
+Watch [here](https://www.youtube.com/watch?v=mxvej57RNUI):<br>
+[![Bad apple on esp32 video](https://img.youtube.com/vi/mxvej57RNUI/0.jpg)](https://www.youtube.com/watch?v=mxvej57RNUI)<br>
+The video is streamed frame by frame, using go. To esp32 (in my case esp32c6-devkitc-1), it connects to a wifi network and listents on port 10(TCP) and displays the video on a st7789 lcd screen <br><br>
+If you want to change the default configuration options refear to bad-apple-esp32c6/main/definitions.h (yes i know i could use the configuration feature of the idf but i was lazy) <br><br>
 The image is intentinally sideways bc my display is 320x240 <br>
 <br>
 ### Requirements to replicate my exact setup:
